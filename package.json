@@ -1,0 +1,15 @@
+{
+  "name": "estacionamento.veiculos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-dev": "sass assets/scss/style.scss assets/css/style.css --watch"
+  },
+  "author": "Moisés Fausto",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.39.2"
+  }
+}
