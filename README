@@ -1,0 +1,22 @@
+1 - npm install
+2 - npm run run-dev
+3 - composer install
+
+tables schmes:
+  BD: Estacionamento
+    Table: cadastro
+              colummns:
+                id
+                nome
+                documento
+                placa_veiculo
+                data_hora
+                valor
+     Table: vagas
+              colummns:
+                id
+                vagas_disponiveis
+                vagas_indisponiveis
+
+
+
